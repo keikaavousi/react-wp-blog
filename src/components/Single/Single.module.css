@@ -1,0 +1,18 @@
+.mainimg{
+    display: block;
+    margin: 20px auto;
+}
+.bordered{
+    border-radius:20px
+}
+.tags{
+    list-style-type: none;
+}
+.tags li{
+    padding: 5px;
+    background-color: #f5f5f5;
+    color: #333;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 3px;
+}

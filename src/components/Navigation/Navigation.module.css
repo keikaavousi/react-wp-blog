@@ -1,0 +1,18 @@
+.nav{
+    background-color: #000;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.nav ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
